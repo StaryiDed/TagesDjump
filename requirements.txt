@@ -1,0 +1,6 @@
+fastapi==0.63.0
+uvicorn==0.13.4
+pydantic==1.8.1
+black==20.8b1
+loguru==0.5.3
+pytest==6.2.2
